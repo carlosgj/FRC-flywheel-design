@@ -19,6 +19,7 @@ Transferring mass elements:  0 hr 0 min 0 sec
 Transferring point loads:  0 hr 0 min 0 sec
 Transferring distributed beam loads:  0 hr 0 min 0 sec
 Transferring rigid bodies:  0 hr 0 min 0 sec
+Transferring component no penetration:  0 hr 0 min 0 sec
 Writing Data:  0 hr 0 min 0 sec
-Transferring analysis options:  0 hr 0 min 0 sec
+Transferring analysis options:  0 hr 0 min 1 sec
 Total midsurf mapping:  0 hr 0 min 0 sec
