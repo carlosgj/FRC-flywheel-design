@@ -1,3 +1,15 @@
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 1 sec
+CB Mesh volume mesh:  0 hr 0 min 2 sec
+CB Mesh arrange mesh data:  0 hr 0 min 0 sec
+Beam mesh:  0 hr 0 min 0 sec
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 3 sec
+CB Mesh volume mesh:  0 hr 0 min 1 sec
+CB Mesh arrange mesh data:  0 hr 0 min 1 sec
+Beam mesh:  0 hr 0 min 0 sec
 Preparing to transfer data:  0 hr 0 min 0 sec
 Processing material properties:  0 hr 0 min 0 sec
 Processing element groups:  0 hr 0 min 0 sec
@@ -20,6 +32,6 @@ Transferring point loads:  0 hr 0 min 0 sec
 Transferring distributed beam loads:  0 hr 0 min 0 sec
 Transferring rigid bodies:  0 hr 0 min 0 sec
 Transferring component no penetration:  0 hr 0 min 0 sec
-Writing Data:  0 hr 0 min 0 sec
-Transferring analysis options:  0 hr 0 min 1 sec
+Writing Data:  0 hr 0 min 1 sec
+Transferring analysis options:  0 hr 0 min 0 sec
 Total midsurf mapping:  0 hr 0 min 0 sec

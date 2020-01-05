@@ -11,3 +11,22 @@ D:\FRC\Flywheel-Design\Bronze Ring-Static 1
 D:\FRC\Flywheel-Design\Bronze Ring-Static 1
 D:\FRC\Flywheel-Design\Bronze Ring-Static 1
 D:\FRC\Flywheel-Design\Bronze Ring-Static 1
+D:\FRC\Flywheel-Design\Bronze Ring-Static 1
+D:\FRC\Flywheel-Design\Bronze Ring-Static 1
+D:\FRC\Flywheel-Design\Bronze Ring-Static 1
+D:\FRC\Flywheel-Design\Bronze Ring-Static 1
+D:\FRC\Flywheel-Design\Bronze Ring-Static 1
+D:\FRC\Flywheel-Design\Flywheel Hub-Shrink
+D:\FRC\Flywheel-Design\Flywheel Hub-Shrink
+D:\FRC\Flywheel-Design\Flywheel Hub-Shrink
+D:\FRC\Flywheel-Design\Bronze Ring-Thermal 1
+D:\FRC\Flywheel-Design\Bronze Ring-Static 2
+D:\FRC\Flywheel-Design\Bronze Ring-Static 2
+D:\FRC\Flywheel-Design\Bronze Ring-Static 2
+D:\FRC\Flywheel-Design\Bronze Ring-Static 2
+D:\FRC\Flywheel-Design\Bronze Ring-Static 2
+D:\FRC\Flywheel-Design\Bronze Ring-Static 2
+D:\FRC\Flywheel-Design\Bronze Ring-Static 2
+D:\FRC\Flywheel-Design\Bronze Ring-Heating
+D:\FRC\Flywheel-Design\Bronze Ring-Heating
+D:\FRC\Flywheel-Design\Bronze Ring-Heating
