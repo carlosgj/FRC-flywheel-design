@@ -30,3 +30,4 @@ D:\FRC\Flywheel-Design\Bronze Ring-Static 2
 D:\FRC\Flywheel-Design\Bronze Ring-Heating
 D:\FRC\Flywheel-Design\Bronze Ring-Heating
 D:\FRC\Flywheel-Design\Bronze Ring-Heating
+D:\FRC\Flywheel-Design\Flywheel-Frequency 1
